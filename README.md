@@ -9,3 +9,6 @@
 * [Taller2](unidad1/taller2.md)
 * [Taller3](unidad1/taller3.md)
 * [Taller4](unidad1/taller4.md)
+
+## __Unidad 2: CMS__
+* [Actividad 2.1](unidad2/actividad2.md)
