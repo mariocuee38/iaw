@@ -11,4 +11,4 @@
 * [Taller4](unidad1/taller4.md)
 
 ## __Unidad 2: CMS__
-* [Actividad 2.1](unidad2/actividad2.md)
+* [Actividad 2.1](unidad2/jekyll.md)
