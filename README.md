@@ -11,4 +11,7 @@
 * [Taller4](unidad1/taller4.md)
 
 ## __Unidad 2: CMS__
-* [Actividad 2.1](unidad2/Jekyll.md)
+* Actividad 2.1:
+  * [1ª parte](unidad2/Jekyll.md)
+  * [3ª parte](https://mariocuee38.github.io/Lagrange/)
+  * [4ª parte](https://master--verdant-cajeta-cb8c87.netlify.app/)
