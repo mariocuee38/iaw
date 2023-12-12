@@ -6,7 +6,7 @@
 <br>
 
 ## __Unidad 1: Introducción a la implantación de aplicaciones webs__
-![Github](/imgMD/i2.PNG)
+<img src="/imgMD/i2.PNG" alt="github" width="400"/>
 * [Taller1](unidad1/taller1.md)
 * [Taller2](unidad1/taller2.md)
 * [Taller3](unidad1/taller3.md)
