@@ -6,12 +6,14 @@
 <br>
 
 ## __Unidad 1: Introducción a la implantación de aplicaciones webs__
+![Github](/imgMD/i2.PNG)
 * [Taller1](unidad1/taller1.md)
 * [Taller2](unidad1/taller2.md)
 * [Taller3](unidad1/taller3.md)
 * [Taller4](unidad1/taller4.md)
 
 ## __Unidad 2: CMS__
+![Jekyll](/imgMD/i3.PNG)
 * Actividad 2.1:
   * [1ª parte](unidad2/Jekyll.md)
   * [3ª parte](https://mariocuee38.github.io/Lagrange/)
@@ -20,3 +22,5 @@
   * [Link a mi repositorio (Forked from JavierOrtiz)](https://github.com/mariocuee38/actividad2.2_zoo)
   * [URL del sitio en GH-Pages](https://javierortizsanchez.github.io/actividad2.2_zoo/)
   * [URL del sitio en Netlify](https://gh-pages--actividad2-2-zoo-mariojavier.netlify.app/)
+
+![Wordpress](/imgMD/i4.PNG)
