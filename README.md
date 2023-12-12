@@ -15,6 +15,7 @@
 
 ## __Unidad 2: CMS__
 <img src="/imgMD/i3.png" alt="jekyll" width="400"/>
+
 * Actividad 2.1:
   * [1ª parte](unidad2/Jekyll.md)
   * [3ª parte](https://mariocuee38.github.io/Lagrange/)
