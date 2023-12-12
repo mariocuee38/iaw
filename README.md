@@ -14,7 +14,7 @@
 * [Taller4](unidad1/taller4.md)
 
 ## __Unidad 2: CMS__
-![Jekyll](imgMD/i3.png)
+<img src="/imgMD/i3.png" alt="jekyll" width="400"/>
 * Actividad 2.1:
   * [1ª parte](unidad2/Jekyll.md)
   * [3ª parte](https://mariocuee38.github.io/Lagrange/)
@@ -24,4 +24,4 @@
   * [URL del sitio en GH-Pages](https://javierortizsanchez.github.io/actividad2.2_zoo/)
   * [URL del sitio en Netlify](https://gh-pages--actividad2-2-zoo-mariojavier.netlify.app/)
 
-![Wordpress](/imgMD/i4.PNG)
+<img src="/imgMD/i4.png" alt="wordpress" width="400"/>
