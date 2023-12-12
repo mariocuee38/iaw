@@ -15,3 +15,7 @@
   * [1ª parte](unidad2/Jekyll.md)
   * [3ª parte](https://mariocuee38.github.io/Lagrange/)
   * [4ª parte](https://master--verdant-cajeta-cb8c87.netlify.app/)
+* Actividad 2.2:
+  * [Link a mi repositorio (Forked from JavierOrtiz)](https://github.com/mariocuee38/actividad2.2_zoo)
+  * [URL del sitio en GH-Pages](https://javierortizsanchez.github.io/actividad2.2_zoo/)
+  * [URL del sitio en Netlify](https://gh-pages--actividad2-2-zoo-mariojavier.netlify.app/)
