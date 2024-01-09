@@ -10,17 +10,19 @@
 <img src="imgMD/i2.PNG" alt="github" width="400"/>
 
 * GitHub:
- * [Taller1](unidad1/taller1.md)
- * [Taller2](unidad1/taller2.md)
- * [Taller3](unidad1/taller3.md)
- * [Taller4](unidad1/taller4.md)
+  * [Taller1](unidad1/taller1.md)
+  * [Taller2](unidad1/taller2.md)
+  * [Taller3](unidad1/taller3.md)
+  * [Taller4](unidad1/taller4.md)
+
    
 <img src="imgMD/dock.png" alt="dockers" width="400"/>
 
 * Dockers:
- * [Jekyll con Dockers](unidad1/JekyllDockers.md)
+  * [Jekyll con Dockers](unidad1/JekyllDockers.md)
 
 ## __Unidad 2: CMS__
+
 <img src="imgMD/i3.png" alt="jekyll" width="400"/>
 
 * Actividad 2.1:
