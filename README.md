@@ -12,7 +12,7 @@
  * [Taller2](unidad1/taller2.md)
  * [Taller3](unidad1/taller3.md)
  * [Taller4](unidad1/taller4.md)
-<img src="imgMD/dock.PNG" alt="dockers" width="400"/>
+<img src="imgMD/dock.png" alt="dockers" width="400"/>
 * Dockers:
  * [Jekyll con Dockers](unidad1/JekyllDockers.md)
 
